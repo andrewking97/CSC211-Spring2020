@@ -96,7 +96,7 @@ It is the policy of the University of Rhode Island to accord students, on an ind
 
 | Week | Topics |  Resources |
 | --- | --- | --- |
-| Week 1 |Lecture - Introduction to 211, Computer Systems, Programming Languages <br>Lab - Hello 211, IDE Setup, Basic Shell Commands <br> Reading - Savitch, Chapter 1 <br>| [Lecture Slides]()|
+| Week 1 |Lecture - Introduction to 211, Computer Systems, Programming Languages <br>Lab - Hello 211, IDE Setup, Basic Shell Commands <br> Reading - Savitch, Chapter 1 <br>| [Lecture Slides](lecture/lecture00.pdf)|
 | Week 2 | 	Lecture - Problems/Algorithms/Programs, History of C++, The Compiler <br>Lecture - C++ Basics, Input/Output, Data Types, Expressions <br> Lab - Algorithms, Problem Design, Pseudo-code Exercises <br> Reading - Savitch, Chapter 2 <br>| [Lecture Slides]()<br>[Lecture Slides]()<br>[Lab]() |
 | Week 3 | Lecture - Number Systems, Further look into DataTypes <br> Lecture - Expressions, Selection Statements <br >Assignment - Assignment 0 <br> Lab - Programming Exercises (branching) <br>Reading- Savitch, Chapter 3 | [Lecture Slides]()<br>[Lecture Slides]()<br>[Lab]() |
 | Week 4 | Lecture - Introduction to Loops (for) <br>Lecture - Loops (while, do while) and Nested Loops (examples) <br>Assignment - Assignment 1 <br>Lab - Programming Exercises (loops and nested loops) <br>Reading- Savitch, Chapter 3 <br>| [Lecture Slides]()<br>[Lecture Slides]()<br>[Lab]() |
