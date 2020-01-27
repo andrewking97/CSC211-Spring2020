@@ -33,7 +33,7 @@ Upon successful completion of this course, each student will be able to:
 
 ## Lab Sessions
 
-Lab sessions will be held on Fridays and Mondays. Lab sessions involve short explanations given by TAs or the instructor, followed by a set of programming exercises. Students are required to solve all programming exercises during the lab session and turn in solutions through Gradescope. Lab work is not graded work, however, attendance will be part of the final grade. We use your submitted solutions to record your attendance.
+Lab sessions will be held on Thursday and Mondays. Lab sessions involve short explanations given by TAs or the instructor, followed by a set of programming exercises. Students are required to solve all programming exercises during the lab session and turn in solutions through Gradescope. Lab work is not graded work, however, attendance will be part of the final grade. We use your submitted solutions to record your attendance.
 
 ## Programming Assignments
 
