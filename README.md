@@ -1,7 +1,7 @@
 ## CSC 211 - Object Oriented Programming (Spring 2020)
 
 ### Course Instructors
-**Instructor:** Michael Conti (michaelconti@uri.edu)
+**Instructor:** Michael Conti (michaelconti@uri.edu), Tyler 137
 
 **Teaching Assistants:** Christian Esteves, John Bertsch, and Rodrigo Pimentel<br>
           Christian - Office Hours TBD <br>
