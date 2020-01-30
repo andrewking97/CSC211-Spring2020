@@ -19,6 +19,8 @@
 **Discussion Session**
 <br> Location: Swan Hall ~ rm305
 
+> Attending 80% of discussion sessions will earn you an additional 5pts on your final exam.
+
 | Day | Staff Member |  Time |
 | --- | --- | --- |
 |Tuesday |   Christian |   5:00p – 6:00p  |
