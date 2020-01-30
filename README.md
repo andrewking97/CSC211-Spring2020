@@ -3,7 +3,7 @@
 ### Course Instructors
 **Instructor:** Michael Conti (michaelconti@uri.edu), Tyler 137
 
-**Teaching Assistants:** Christian Esteves, John Bertsch, Rodrigo Pimentel,Tanner Lindsay, Jordan Coats <br>
+**Teaching Assistants:** Christian Esteves, John Bertsch, Rodrigo Pimentel, Tanner Lindsay, Jordan Coats <br>
 
 **Office Hours Schedule**
 <br>Location: Tyler Hall ~ Third (top) Floor Lounge
