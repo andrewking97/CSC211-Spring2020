@@ -33,8 +33,7 @@
 | Day | Staff Member |  Time |
 | --- | --- | --- |
 |Monday |   John, Jordan, Tanner |   3:00p – 4:45p  |
-|Thursday |   Rodrigo, Jordan, Christian |   3:30p – 5:15p  |
-          
+|Thursday |   Rodrigo, Jordan, Christian |   3:30p – 5:15p|
 
 ## Course Overview
 
