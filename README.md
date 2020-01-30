@@ -3,10 +3,36 @@
 ### Course Instructors
 **Instructor:** Michael Conti (michaelconti@uri.edu), Tyler 137
 
-**Teaching Assistants:** Christian Esteves, John Bertsch, and Rodrigo Pimentel<br>
-          Christian - Office Hours TBD <br>
-          John - Office Hours TBD <br>
-          Rodrigo - Office Hours TBD <br>
+**Teaching Assistants:** Christian Esteves, John Bertsch, Rodrigo Pimentel,Tanner Lindsay, Jordan Coats <br>
+
+**Office Hours Schedule**
+<br>Location: Tyler Hall ~ Third (top) Floor Lounge
+
+| Day | Staff Member |  Time |
+| --- | --- | --- |
+|Monday |   Tanner |   12:30p – 2:30p  |
+|Tuesday |  Christian <br> Rodrigo |   11:00a – 2:00p, 3:15p – 5:00p  <br> 12:30 - 2:00pm, 3:15p - 5:00p|
+|Wednesday   |  Christian <br> Tanner  |  12:00p - 4:15p <br> 10:00a – 12:00p  |
+|Thursday   |  Michael <br> Christian <br> Rodrigo| 10:00a - 11:00a (Tyler 137) <br> 11:00a - 2:00p <br> 12:30p - 1:30p |
+|Friday    |   Tanner |  11:00a - 12:00p   |
+
+**Discussion Session**
+<br> Location: Swan Hall ~ rm305
+
+| Day | Staff Member |  Time |
+| --- | --- | --- |
+|Tuesday |   Christian |   5:00p – 6:00p  |
+|Wednesday |   Christian |   4:20p – 5:20p  |
+
+
+**Lab**
+<br>Location: Engineering ~ rm045
+
+| Day | Staff Member |  Time |
+| --- | --- | --- |
+|Monday |   John, Jordan, Tanner |   3:00p – 4:45p  |
+|Thursday |   Rodrigo, Jordan, Christian |   3:30p – 5:15p  |
+          
 
 ## Course Overview
 
