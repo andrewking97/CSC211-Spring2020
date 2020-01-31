@@ -14,7 +14,7 @@
 |Tuesday |  Christian <br> Rodrigo |   11:00a – 2:00p, 3:15p – 5:00p  <br> 12:30 - 2:00pm, 3:15p - 5:00p|
 |Wednesday   |  Christian <br> Tanner  |  12:00p - 4:15p <br> 10:00a – 12:00p  |
 |Thursday   |  Michael <br> Christian <br> Rodrigo| 10:00a - 11:00a (Tyler 137) <br> 11:00a - 2:00p <br> 12:30p - 1:30p |
-|Friday    |   Tanner |  11:00a - 12:00p   |
+|Friday    |   Tanner <br> John |  11:00a - 12:00p <br> 1:00p - 3:00p   |
 
 **Discussion Session**
 <br> Location: Swan Hall ~ rm305
