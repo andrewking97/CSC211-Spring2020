@@ -182,7 +182,7 @@ With the introduction of branching we are also introducing your first opportunit
 
 :white_check_mark: Question 8.
 ```c++
-#inclde <iostream>
+#include <iostream>
 int main() {
     int test = 0;
 
@@ -198,7 +198,7 @@ int main() {
 
 :white_check_mark: Question 9.
 ```c++
-#inclde <iostream>
+#include <iostream>
 int main() {
     int test = 0;
 
@@ -214,7 +214,7 @@ int main() {
 
 :white_check_mark: Question 10.
 ```c++
-#inclde <iostream>
+#include <iostream>
 int main() {
     int test = 0;
 
