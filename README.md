@@ -116,6 +116,44 @@ Any student with a documented disability is welcome to contact me as early in th
 
 It is the policy of the University of Rhode Island to accord students, on an individual basis, the opportunity to observe their traditional religious holidays. Students desiring to observe a holiday of special importance must provide written notification to each instructor.
 
+## COVID-19 Response
+
+The CSC 211 staff has met as a group and developed the format of the course moving forward. I'll outline that model below:
+
+### Lectures
+
+Lectures will be asynchronous. Every week at the time and day we would normally meet in person, I will be updating (this)[https://piazza.com/class/k5wnqtbv8jy5kx?cid=113] Piazza post with a link to a video lecture that covers the material we would have covered if we met in person. Any questions / comments on that lecture should be posted to Piazza ~ which will be continuously monitored by myself and the teaching staff.
+
+### Labs
+
+Labs can be done independently or with a group using whatever communication tool you prefer (FaceTime, Zoom, Google Meets, Discord, Slack). If done in a group, please submit on Gradescope just as a group as we have been doing all semester. TAs will be available in real-time through their (respective chatrooms)[https://piazza.com/class/k5wnqtbv8jy5kx?cid=111] that will be updated each week on this piazza post. Each TA will have their own Google Meets chatroom for your lab questions during the scheduled lab times (that is, these chatroom will not be active outside of the scheduled lab sessions).
+
+### Office Hours
+
+Office hours will be synchronous, just like the labs. Each TA will update (this)[https://piazza.com/class/k5wnqtbv8jy5kx?cid=112] resource on Piazza with a link that will be active with a Google Meets chatroom during their regularly scheduled office hour times.
+
+### Discussion Sessions
+
+Discussion sessions will will be synchronous, just like the labs and office hours. The discussion session lead will update (this)[https://piazza.com/class/k5wnqtbv8jy5kx?cid=124] resource on Piazza with a link that will be active with a Google Meets chatroom during their regularly scheduled discussion session times.
+
+### Important Notes
+
+**Favorite the Lecture, Lab, and Office Hour Piazza** Posts in Piazza. This can be done by selecting the thread you want to favorite and clicking on the stars found at the top of the message. This will allow you to easily access the important links and should look like the screenshot below.
+
+**Exams** will be delivered remotely and need to be submitted on Gradescope. (I will be advising you on exam format and submission specifics when we get closer to that time).
+
+**Deadlines** should be closely monitored on Gradescope and will be enforced.
+
+**Message me** on Piazza or requesting a virtual meeting with any questions, comments, concerns as you normally would during the course of a regular ~ in-person section.
+ 
+
+That's for now. We resume CSC 211 this week! Please stay safe and healthy (both mentally and physically). 
+
+ 
+
+We *will* persevere.
+
+-- M
 
 ### Tentative Course Outline:
 
