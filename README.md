@@ -122,19 +122,19 @@ The CSC 211 staff has met as a group and developed the format of the course movi
 
 ### Lectures
 
-Lectures will be asynchronous. Every week at the time and day we would normally meet in person, I will be updating (this)[https://piazza.com/class/k5wnqtbv8jy5kx?cid=113] Piazza post with a link to a video lecture that covers the material we would have covered if we met in person. Any questions / comments on that lecture should be posted to Piazza ~ which will be continuously monitored by myself and the teaching staff.
+Lectures will be asynchronous. Every week at the time and day we would normally meet in person, I will be updating [this](https://piazza.com/class/k5wnqtbv8jy5kx?cid=113) Piazza post with a link to a video lecture that covers the material we would have covered if we met in person. Any questions / comments on that lecture should be posted to Piazza ~ which will be continuously monitored by myself and the teaching staff.
 
 ### Labs
 
-Labs can be done independently or with a group using whatever communication tool you prefer (FaceTime, Zoom, Google Meets, Discord, Slack). If done in a group, please submit on Gradescope just as a group as we have been doing all semester. TAs will be available in real-time through their (respective chatrooms)[https://piazza.com/class/k5wnqtbv8jy5kx?cid=111] that will be updated each week on this piazza post. Each TA will have their own Google Meets chatroom for your lab questions during the scheduled lab times (that is, these chatroom will not be active outside of the scheduled lab sessions).
+Labs can be done independently or with a group using whatever communication tool you prefer (FaceTime, Zoom, Google Meets, Discord, Slack). If done in a group, please submit on Gradescope just as a group as we have been doing all semester. TAs will be available in real-time through their [respective chatrooms](https://piazza.com/class/k5wnqtbv8jy5kx?cid=111) that will be updated each week on this piazza post. Each TA will have their own Google Meets chatroom for your lab questions during the scheduled lab times (that is, these chatroom will not be active outside of the scheduled lab sessions).
 
 ### Office Hours
 
-Office hours will be synchronous, just like the labs. Each TA will update (this)[https://piazza.com/class/k5wnqtbv8jy5kx?cid=112] resource on Piazza with a link that will be active with a Google Meets chatroom during their regularly scheduled office hour times.
+Office hours will be synchronous, just like the labs. Each TA will update [this](https://piazza.com/class/k5wnqtbv8jy5kx?cid=112) resource on Piazza with a link that will be active with a Google Meets chatroom during their regularly scheduled office hour times.
 
 ### Discussion Sessions
 
-Discussion sessions will will be synchronous, just like the labs and office hours. The discussion session lead will update (this)[https://piazza.com/class/k5wnqtbv8jy5kx?cid=124] resource on Piazza with a link that will be active with a Google Meets chatroom during their regularly scheduled discussion session times.
+Discussion sessions will will be synchronous, just like the labs and office hours. The discussion session lead will update [this](https://piazza.com/class/k5wnqtbv8jy5kx?cid=124) resource on Piazza with a link that will be active with a Google Meets chatroom during their regularly scheduled discussion session times.
 
 ### Important Notes
 
