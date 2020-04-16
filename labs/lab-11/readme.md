@@ -26,12 +26,12 @@ int y;
 int z;
 
 //Constructs a point object with X, Y, Z properties
-Point(int someX, int someY, int someX);
+Point(int someX, int someY, int someZ);
 
 //Sets the X, Y, and Z properties of a point Object
 void setX(int someX);
 void setY(int someY);
-void setZ(int someX);
+void setZ(int someZ);
 
 //Gets the X, Y, and Z properties from a point Object
 int getX();
